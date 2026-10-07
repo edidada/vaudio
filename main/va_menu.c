@@ -2,6 +2,7 @@
 #include <string.h>
 #include "u8g2/u8g2.h"
 
+#include "esp_attr.h"
 #include "va_app.h"
 #include "va_audio.h"
 #include "va_debug.h"
